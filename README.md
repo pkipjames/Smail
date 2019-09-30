@@ -6,26 +6,26 @@
 - ***For Client Side scripting - Javascript*** .
 
 
-- ***Home***
+>> ***Home***
 ![Home Page](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(38).png)
 
 
-- ***Registeration Form***
+>> ***Registeration Form***
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Capture.PNG)
 
 
-- ***User Login***
+>> ***User Login***
 
 
 ![Home Page](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(39).png)
 
 
-- ***Admin Login***
+>> ***Admin Login***
 
 
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Capture2.PNG)
 
-- ***Admin Home***
+>> ***Admin Home***
 
 
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(63).png)
@@ -34,7 +34,7 @@
 
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(40).png)
 
-- ***User Profile***
+>> ***User Profile***
 
 
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(59).png)
@@ -45,7 +45,7 @@
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(42).png)
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(43).png)
 
-- ***Sent Box***
+>> ***Sent Box***
 
 
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(44).png)
@@ -64,7 +64,7 @@
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(45).png)
 
 
-- ***Chat Box***
+>> ***Chat Box***
 
 
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(47).png)
@@ -72,37 +72,37 @@
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(57).png)
 
 
-- ***Chat History***
+>> ***Chat History***
 
 
 ![Home Page](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(58).png)
 
 
-- ***Find People***
+>> ***Find People***
 
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(50).png)
 
-- ***Post status and do like,share and comment on others post***
+>> ***Post status and do like,share and comment on others post***
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(41).png)
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(53).png)
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(54).png)
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(62).png)
 
-- ***View Profile***
+>> ***View Profile***
 
 
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(59).png)
 
 
 
-- ***Change Password***
+>> ***Change Password***
 
 
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(60).png)
 
 
 
-- ***Update Profile Photo***
+>> ***Update Profile Photo***
 
 
 ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(61).png)

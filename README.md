@@ -3,7 +3,7 @@
 - ***Language use - Java***
 - ***Database - Mysql***
 - ***For Frontend - Html5,CSS***
-- ***For Client Side scripting - Javascript*** 
+- ***For Client Side scripting - Javascript*** .
 
 
 - ***Home***

@@ -11,7 +11,7 @@
 
 
 - ***Registeration Form***
-(https://github.com/rahulgupta1999/Smail/blob/master/output/Capture.PNG)
+![](https://github.com/rahulgupta1999/Smail/blob/master/output/Capture.PNG)
 
 
 - ***User Login***

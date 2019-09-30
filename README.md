@@ -2,8 +2,8 @@
 #### It is social media webapp.  
 - ***Language use - Java***
 - ***Database - Mysql***
-- ***For Frontend - Html5,CSS***
-- ***For Client Side scripting - Javascript*** .
+- ***For frontend - Html5,CSS***
+- ***For client side scripting - Javascript*** .
 
 
 > ***Home***

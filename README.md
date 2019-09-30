@@ -6,6 +6,7 @@
 - ***For client side scripting - Javascript*** .
 
 
+
 > ***Home***
 
 
@@ -94,6 +95,7 @@
 
 
  ![](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(50).png)
+
 
 
 > ***Post status and do like,share and comment on others post***

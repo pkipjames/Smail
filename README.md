@@ -5,10 +5,16 @@
 - ***For Frontend - Html5,CSS***
 - ***For Client Side scripting - Javascript*** 
 
+
+- ***Home***
 ![Home Page](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(38).png)
 
 
-- ***User Login ***
+- ***Registeration Form***
+(https://github.com/rahulgupta1999/Smail/blob/master/output/Capture.PNG)
+
+
+- ***User Login***
 
 
 ![Home Page](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(39).png)
@@ -23,7 +29,7 @@
 
 ![Home Page](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(40).png)
 
-- ***User Profile ***
+- ***User Profile***
 
 
 ![Home Page](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(59).png)
@@ -79,7 +85,7 @@
 - ***View Profile***
 
 
-![Home Page](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(50).png)
+![Home Page](https://github.com/rahulgupta1999/Smail/blob/master/output/Screenshot%20(59).png)
 
 
 

@@ -1,4 +1,4 @@
-> # ***Smail***
+> # **Smail**
 #### It is social media webapp.  
 - ***Language use - Java***
 - ***Database - Mysql***
